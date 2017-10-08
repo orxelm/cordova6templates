@@ -1,4 +1,5 @@
 {
+  "name": "com.walkme.cordova.demo",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
