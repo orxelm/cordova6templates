@@ -1,5 +1,8 @@
 {
   "name": "com.walkme.cordova.demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "WalkMe",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
